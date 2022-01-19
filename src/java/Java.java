@@ -18,6 +18,7 @@ public class Java {
         System.out.println("Hola papus");
         System.out.println("Hola Perros");
         System.out.println("Hola Jose");
+        System.out.println("Hola Pastrulos");
     }
     
 }
