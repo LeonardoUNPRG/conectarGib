@@ -22,6 +22,10 @@ public class Java {
         System.out.println("Hola Leo");
         System.out.println("Jhonatan leo");
         System.out.println("Smith no hace ni mrd");
+        System.out.println("Leonardo en los meet hace organizacion");
+        System.out.println("Miguel extraña a nuby");
+        System.out.println("A smith no le hizo caso gardenia");
+        System.out.println("Y pablo no hace nada");
     }
     
 }
